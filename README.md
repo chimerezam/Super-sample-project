@@ -17,8 +17,8 @@ The following steps were used to prepare and analyze the data:
 2. Data transformation and aggregation: I transformed the data into a dimensional model, with customer, location, date, and product dimensions.
 3. Data visualization and exploration: I used Power BI to create visualizations and explore the data.
 
-4. ### Findings:
-5. The Top profitable product is Copiers followed by phones both from Home office and technology category respectively.
+ ### Findings:
+ The Top profitable product is Copiers followed by phones both from Home office and technology category respectively.
 The least profitable product is Tables .
 Overall technology category is leading in terms profit and sales
 The west region is leading in terms of revenue generation while the least region in terms revenue is East
